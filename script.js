@@ -92,6 +92,7 @@ window.onload = async () => {
       push("Stop playing", "Roblox");
       push("You are", "Cringe");
       push("Current Status", "\u{D9E}");
+      push("Made by", "3kh0");
     };
 
     start.onclick = async () => {
