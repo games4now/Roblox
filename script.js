@@ -89,8 +89,8 @@ window.onload = async () => {
       if (ip_data) push("Timezone", ip_data.timezone);
       push("Timezone Offset", date.getTimezoneOffset() / 60, " hours");
       push("Hacked", pick(hacked_statements));
-      push("Stop playing", "Roblox, you unitard");
-      push("You are", "Cringe (*cough, cough, <i>oliver</i>, cough*)");
+      push("Stop playing", "Roblox");
+      push("You are", "Cringe");
       push("Current Status", "\u{D9E}");
     };
 
